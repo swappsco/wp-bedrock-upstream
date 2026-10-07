@@ -1,3 +1,14 @@
+# DESHABILITADO el 2026-10-07 (CU-86bce45wb). Dependabot abria PRs automaticos de
+# madrugada que despertaban runners self-hosted y nodos del cluster dev, y la
+# gestion de dependencias se maneja por otra via.
+#
+# El contenido se conserva porque las listas de `ignore` y sus razones siguen
+# siendo decisiones vigentes. Dependabot solo lee `.github/dependabot.yml`, asi
+# que con este nombre no corre.
+#
+# Reactivar: git mv .github/dependabot.yml.disabled .github/dependabot.yml
+# ---------------------------------------------------------------------------
+
 # To get started with Dependabot version updates, you'll need to specify which
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for all configuration options:
